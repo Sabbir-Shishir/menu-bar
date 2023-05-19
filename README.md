@@ -11,7 +11,7 @@ To use the responsive menu section in your project, follow these steps:
 
 - Clone the repository :
 ```bash
-  https://github.com/Sabbir-Shishir/menu-bar.git
+  git clone https://github.com/Sabbir-Shishir/menu-bar.git
 ```
 
 - Copy the Images folder, CSS and JavaScript files into your project directory.
